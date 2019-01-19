@@ -14,5 +14,8 @@ Good article that explains initializers in swift in good details, it is written 
 #### Deep Copy/ Shallow Copy
 Article on Deep and shalow copy in Swift [link](https://medium.freecodecamp.org/deep-copy-vs-shallow-copy-and-how-you-can-use-them-in-swift-c623833f5ad3)
 
+#### Swift struct in Objective C
+Stackoverflow links [link1](https://stackoverflow.com/questions/26173234/how-to-use-swift-struct-in-objective-c), [link2](https://stackoverflow.com/questions/44845624/is-there-a-way-to-use-swift-structs-in-objective-c-without-making-them-classes?noredirect=1&lq=1)
+
 ### Other
 Difference between static and class functions [link](https://stackoverflow.com/questions/25156377/what-is-the-difference-between-static-func-and-class-func-in-swift/25157453)
