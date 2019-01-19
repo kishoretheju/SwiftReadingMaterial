@@ -10,3 +10,6 @@
 ### Articles
 #### Initializers in swift
 Good article that explains initializers in swift in good details, it is written in three parts [part 1](https://medium.com/@abhimuralidharan/initializers-in-swift-part-1-intro-convenience-and-designated-intializers-9adf5632fb52), [part 2](https://medium.com/@abhimuralidharan/initializers-in-swift-part-2-failable-initializers-in-swift-63a464fcf8d7), [part 3](https://medium.com/@abhimuralidharan/initializers-in-swift-part-3-required-initializers-in-swift-d975cc9a2932).
+
+### Other
+[Difference between static and class functions](https://stackoverflow.com/questions/25156377/what-is-the-difference-between-static-func-and-class-func-in-swift/25157453)
