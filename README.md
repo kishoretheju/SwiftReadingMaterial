@@ -26,3 +26,7 @@ Stackoverflow links [link1](https://stackoverflow.com/questions/26173234/how-to-
 - [Blocks vs Closures](https://stackoverflow.com/questions/26374792/difference-between-block-objective-c-and-closure-swift-in-ios)
 - [static vs class](https://docs.swift.org/swift-book/LanguageGuide/Methods.html#) methods in swift
 - [@discardableresult](https://medium.com/@patrickbdev/swift-3-discardable-result-c45ab49c76ef)
+
+### Saved for later read
+MVVM [link1](https://www.appcoda.com/mvvm-vs-mvc/), [link2](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
+
