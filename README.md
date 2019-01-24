@@ -1,4 +1,4 @@
-**Contains consolidated list of things important or interesting things i have read related to iOS application development and related to Swift in general.** Please feel free to contribute to this.
+**Contains consolidated list of important or interesting things i have read related to iOS application development, Swift language.** Please feel free to contribute to this.
 
 ### Books
 - [Swift Official book](https://docs.swift.org/swift-book/)
