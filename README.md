@@ -10,6 +10,7 @@
 ### Design patterns
 - Core iOS design patterns - [WWDC2014/224](https://developer.apple.com/videos/play/wwdc2014/224/)
 - Advanced iOS Application Architecture and Patterns - [WWDC2014/229](https://developer.apple.com/videos/play/wwdc2014/229/)
+- Let’s discuss MVVM for iOS - [link](https://medium.com/@ramshandilya/lets-discuss-mvvm-for-ios-a7960c2f04c7)
 
 ### Articles
 - **Initializers in swift**    
