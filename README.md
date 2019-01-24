@@ -9,6 +9,7 @@
 
 ### Design patterns
 - Core iOS design patterns - [WWDC2014/224](https://developer.apple.com/videos/play/wwdc2014/224/)
+- Advanced iOS Application Architecture and Patterns - [WWDC2014/229](https://developer.apple.com/videos/play/wwdc2014/229/)
 
 ### Articles
 - **Initializers in swift**    
