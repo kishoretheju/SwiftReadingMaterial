@@ -33,4 +33,5 @@ Stackoverflow links [link1](https://stackoverflow.com/questions/26173234/how-to-
 - Unit testing [link](https://www.raywenderlich.com/709-ios-unit-testing-and-ui-testing-tutorial)
 - Design patterns
 - Reactive programming(RxSwift)
+- Dependancy injection
 
