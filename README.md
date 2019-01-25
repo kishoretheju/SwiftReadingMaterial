@@ -27,6 +27,10 @@ Stackoverflow links [link1](https://stackoverflow.com/questions/26173234/how-to-
 - **How to use correctly 'self' keyword in Swift** [link](https://dmitripavlutin.com/how-to-use-correctly-self-keyword-in-swift/)
 - **unowned vs weak** in capture list of closure [link](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
 
+### Podcasts
+- Swift Community Podcast [link](https://www.swiftcommunitypodcast.org/)
+- Raywenderlich podcast [link](https://www.raywenderlich.com/podcast)
+
 ### Other
 - Difference between static and class functions [link](https://stackoverflow.com/questions/25156377/what-is-the-difference-between-static-func-and-class-func-in-swift/25157453)
 - [Blocks vs Closures](https://stackoverflow.com/questions/26374792/difference-between-block-objective-c-and-closure-swift-in-ios)
