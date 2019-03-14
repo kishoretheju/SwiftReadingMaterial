@@ -29,6 +29,7 @@ Stackoverflow links [link1](https://stackoverflow.com/questions/26173234/how-to-
 - **How to use correctly 'self' keyword in Swift** [link](https://dmitripavlutin.com/how-to-use-correctly-self-keyword-in-swift/)
 - **unowned vs weak** in capture list of closure [link](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
 - **UIView Auto layout life cycle** [link](http://www.vadimbulavin.com/view-auto-layout-life-cycle/)
+- **compactMap** [link](https://www.avanderlee.com/swift/compactmap-flatmap-differences-explained/)
 
 ### Podcasts
 - Swift Community Podcast [link](https://www.swiftcommunitypodcast.org/)
